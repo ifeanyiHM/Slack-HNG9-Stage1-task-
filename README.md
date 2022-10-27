@@ -1,0 +1,1 @@
+This simple page like Linktree, allows a person display their personal profile and link to various digital products being sold by them.  This is a Stage one of a 9 stage project for a team of frontend developers.
