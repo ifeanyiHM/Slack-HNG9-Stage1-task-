@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Slack-HNG9-Stage1-task-/static/css/main.e0716093.css",
-    "main.js": "/Slack-HNG9-Stage1-task-/static/js/main.5dc7792b.js",
+    "main.js": "/Slack-HNG9-Stage1-task-/static/js/main.ef6ae5db.js",
     "static/media/I4G.svg": "/Slack-HNG9-Stage1-task-/static/media/I4G.0d8fdf5ce110cb0330fe8c98eb73878c.svg",
     "static/media/Device=Web,State=Hover.svg": "/Slack-HNG9-Stage1-task-/static/media/Device=Web,State=Hover.859ee6c06a59d0cd5268.svg",
     "static/media/Device=Web,State=Default.svg": "/Slack-HNG9-Stage1-task-/static/media/Device=Web,State=Default.0bf2cf9f59f9d289d55b.svg",
     "static/media/Zuri.Internship_Logo.svg": "/Slack-HNG9-Stage1-task-/static/media/Zuri.Internship_Logo.5e3a57806dde64005a1ca6932f77b432.svg",
     "static/media/slack.svg": "/Slack-HNG9-Stage1-task-/static/media/slack.6fa75d08a444264c64393c623e71c055.svg",
     "static/media/Social_icon.svg": "/Slack-HNG9-Stage1-task-/static/media/Social_icon.ac85882f49276b5fe44d7aab4988e4fa.svg",
-    "static/media/_Avatar_share button1.svg": "/Slack-HNG9-Stage1-task-/static/media/_Avatar_share button1.11a1499ccc6ed8e07ef6a9050e6f4da8.svg",
-    "static/media/_Avatar_share button.svg": "/Slack-HNG9-Stage1-task-/static/media/_Avatar_share button.8b4369de8ab30a8ae240d027dafeccf0.svg",
+    "static/media/Avatar_shareb.svg": "/Slack-HNG9-Stage1-task-/static/media/Avatar_shareb.11a1499ccc6ed8e07ef6a9050e6f4da8.svg",
+    "static/media/Avatar_share.svg": "/Slack-HNG9-Stage1-task-/static/media/Avatar_share.8b4369de8ab30a8ae240d027dafeccf0.svg",
     "index.html": "/Slack-HNG9-Stage1-task-/index.html",
     "main.e0716093.css.map": "/Slack-HNG9-Stage1-task-/static/css/main.e0716093.css.map",
-    "main.5dc7792b.js.map": "/Slack-HNG9-Stage1-task-/static/js/main.5dc7792b.js.map"
+    "main.ef6ae5db.js.map": "/Slack-HNG9-Stage1-task-/static/js/main.ef6ae5db.js.map"
   },
   "entrypoints": [
     "static/css/main.e0716093.css",
-    "static/js/main.5dc7792b.js"
+    "static/js/main.ef6ae5db.js"
   ]
 }
