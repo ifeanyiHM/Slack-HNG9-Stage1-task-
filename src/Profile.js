@@ -1,5 +1,5 @@
-import avatar_web from "./Icons/_Avatar_share button.svg"
-import avatar_mobile from "./Icons/_Avatar_share button1.svg"
+import avatar_web from "./Icons/_Avatar_share_button.svg"
+import avatar_mobile from "./Icons/_Avatar_share_button1.svg"
 
 const Profile = () => {
     return ( 
