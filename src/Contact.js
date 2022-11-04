@@ -9,6 +9,7 @@ const Contact = () => {
     const [message, setMessage] = useState('');
     const [error, setError] = useState(false);
 
+
     const handleSubmit = (e) => {
         if (firstName.length == 0 || lastName.length == 0 || email.length == 0 || message.length == 0) {
             setError(true)
@@ -61,7 +62,7 @@ const Contact = () => {
                     ]:
                     [
                         <input type="email" id="email" onChange={e => setEmail(e.target.value)} placeholder="yourname@email.com" />,
-                        <p style={{visibility:'hidden'}}>please enter your email</p>
+                        <p style={{color: 'rgb(0, 0, 0)'}}> This is a hint text to help users. </p>
                     ]
                 }
 
