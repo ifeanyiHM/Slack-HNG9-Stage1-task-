@@ -100,6 +100,7 @@ body {
 }
 .container .Contact form input:focus {
   border: 1px solid #007af3;
+  box-shadow: 1px 1px 1px 0 rgba(0, 122, 243, 0.5), 1px 1px 1px rgba(0, 122, 243, 0.5) inset;
 }
 .container .Contact form textarea {
   width: 100%;
@@ -111,6 +112,7 @@ body {
 }
 .container .Contact form textarea:focus {
   border: 1px solid #007af3;
+  box-shadow: 1px 1px 1px 0 rgba(0, 122, 243, 0.5), 1px 1px 1px rgba(0, 122, 243, 0.5) inset;
 }
 .container .Contact form p {
   margin-bottom: 5px;

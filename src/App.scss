@@ -118,6 +118,7 @@ body{
 
                 &:focus{
                     border: 1px solid #007af3;
+                    box-shadow: 1px 1px 1px 0 rgb(0, 122, 243, 0.5), 1px 1px 1px rgb(0, 122, 243, 0.5) inset;
                 }
             }
 
@@ -131,6 +132,7 @@ body{
 
                 &:focus{
                     border: 1px solid #007af3;
+                    box-shadow: 1px 1px 1px 0 rgb(0, 122, 243, 0.5), 1px 1px 1px rgb(0, 122, 243, 0.5) inset;
                 }
             }
             
