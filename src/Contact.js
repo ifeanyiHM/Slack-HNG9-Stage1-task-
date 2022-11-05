@@ -59,10 +59,14 @@ const Contact = () => {
                     [
                         <input type="email" id="email" style={{borderColor:'rgb(255, 0, 0)'}} onChange={e => setEmail(e.target.value)} placeholder="yourname@email.com" />,
                         <p>please enter your email</p> 
+                    ]: email.length>=1?
+                    [
+                        <input type="email" id="email" onChange={e => setEmail(e.target.value)} placeholder="yourname@email.com" />,
+                        <p style={{visibility:'hidden'}}>please enter your email</p>
                     ]:
                     [
                         <input type="email" id="email" onChange={e => setEmail(e.target.value)} placeholder="yourname@email.com" />,
-                        <p style={{color: 'rgb(0, 0, 0)'}}> This is a hint text to help users. </p>
+                        <p style={{color: 'rgb(0, 0, 0)'}}> This is a hint text to help users.</p>
                     ]
                 }
 
