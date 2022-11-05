@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Slack-HNG9-Stage1-task-/static/css/main.503b5470.css",
-    "main.js": "/Slack-HNG9-Stage1-task-/static/js/main.9348287d.js",
+    "main.js": "/Slack-HNG9-Stage1-task-/static/js/main.aae6174d.js",
     "static/media/I4G.svg": "/Slack-HNG9-Stage1-task-/static/media/I4G.0d8fdf5ce110cb0330fe8c98eb73878c.svg",
     "static/media/Device=Web,State=Hover.svg": "/Slack-HNG9-Stage1-task-/static/media/Device=Web,State=Hover.859ee6c06a59d0cd5268.svg",
     "static/media/Device=Web,State=Default.svg": "/Slack-HNG9-Stage1-task-/static/media/Device=Web,State=Default.0bf2cf9f59f9d289d55b.svg",
@@ -12,10 +12,10 @@
     "static/media/Avatar_share.svg": "/Slack-HNG9-Stage1-task-/static/media/Avatar_share.8b4369de8ab30a8ae240d027dafeccf0.svg",
     "index.html": "/Slack-HNG9-Stage1-task-/index.html",
     "main.503b5470.css.map": "/Slack-HNG9-Stage1-task-/static/css/main.503b5470.css.map",
-    "main.9348287d.js.map": "/Slack-HNG9-Stage1-task-/static/js/main.9348287d.js.map"
+    "main.aae6174d.js.map": "/Slack-HNG9-Stage1-task-/static/js/main.aae6174d.js.map"
   },
   "entrypoints": [
     "static/css/main.503b5470.css",
-    "static/js/main.9348287d.js"
+    "static/js/main.aae6174d.js"
   ]
 }
