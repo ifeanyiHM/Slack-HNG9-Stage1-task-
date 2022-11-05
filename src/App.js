@@ -10,7 +10,7 @@ const App = () => {
 
     return (
         <>
-           <Router basename="/Slack-HNG9-Stage1-task-">
+           <Router>
                 <div className="container">
                     <Switch>
                         <Route path="/Slack-HNG9-Stage1-task-">
